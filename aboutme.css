@@ -1,0 +1,22 @@
+body{background:linear-gradient(navy, blue,navy,blue);background-repeat:no-repeat;background-attachment: fixed;}
+
+
+.maindiv{width:85%;
+    height:auto;
+    background-image:url(images/spacebg.gif);
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    min-height:300px;
+    border:1px black solid;border-radius:20px
+
+}
+
+    .center{margin-left:auto;margin-right:auto;display:block;font-family: sans-serif;}
+
+    h3{text-align:center;color:antiquewhite;max-width: 500px;margin-left:auto;margin-right:auto;padding:5px;
+    }
+
+    h1{text-align:center;color:rgb(143, 16, 16);max-width: 500px;margin-left:auto;margin-right:auto;padding:5px;
+    }
+

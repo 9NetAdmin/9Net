@@ -1,0 +1,44 @@
+html,body{
+	min-height: 100%;
+	width:192px;
+	margin:0px;
+	padding:0px
+	
+}
+
+h1,h2,h3,h4,h5,h6{
+	text-align:center;
+	padding:0px;
+}
+
+
+
+
+
+body{
+	background:linear-gradient(to right,rgba(105, 11, 11, 0.877),rgba(20, 156, 20, 0.89),rgba(9, 9, 146, 0.87));
+	background-repeat:no-repeat;
+}
+
+.navbar{
+	border:solid black;
+	
+	min-height:300px; /*vh*/
+	width:120px;
+	padding:0px;
+	margin:0px;
+	margin-left:auto;
+	margin-right:auto;
+	background-image:url(images/sideimg.png)
+	
+	
+}
+
+a {
+	display: inline-block;
+	
+	background-color: black;
+}
+.fire{text-shadow:2px 2px 3px red,0px 2px yellow;
+
+}

@@ -1,0 +1,17 @@
+body{background-image:url(images/backgroundlightning.gif)
+}
+
+.maindiv{width:85%;
+    border:3px solid gold;border-radius:60px;
+    height:auto;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    background-color:rgba(49, 49, 49, 0.74);
+    ;
+}
+
+h3{text-align:center;color:antiquewhite;max-width: 500px;margin-left:auto;margin-right:auto;padding:5px;
+}
+
+.center{margin-left:auto;margin-right:auto;display:block;font-family: sans-serif;}
