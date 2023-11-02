@@ -1,0 +1,23 @@
+body{
+    background-color:rgb(150, 150, 150);height: auto;
+}
+
+h2{text-align:center;color:rgb(0, 0, 0);max-width: 600px;margin-left:auto;margin-right:auto;padding:5px;
+}
+
+.center{margin-left:auto;margin-right:auto;font-family: sans-serif;}
+
+.img{margin-left:auto;margin-right:auto;height:55vh;display:block}
+
+.big{margin-left:auto;margin-right:auto;width:90%;display:block}
+
+h1{text-align:center;color:rgb(21, 52, 114);margin-left:auto;margin-right:auto;padding:5px;
+}
+
+ul {
+    display: table; 
+    margin: 0 auto;
+    text-align: left;
+    font-size:x-large;
+    font-weight: bold;
+}
